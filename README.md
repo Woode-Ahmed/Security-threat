@@ -6,6 +6,10 @@ Script Description:
 This script is a multi-functional network and domain utility tool written in Python. It provides several useful features for network analysis, domain inspection, and testing. Below is a detailed description of each feature:
 
 
+[![NetProwler Logo](IMG_20250128_014104_477.jpg)](https://t.me/NO_BRAK)
+
+[My channel Telegram](https://t.me/NO_BRAK)
+
 ---
 
 Features and Options:
